@@ -1,0 +1,12 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/a-company-jp/lgtm-gen
+[submodule "webpage"]
+	path = webpage
+	url = https://github.com/a-company-jp/lgtm-web-page
+[submodule "chrome-extension"]
+	path = chrome-extension
+	url = https://github.com/a-company-jp/lgtm-browser-extention
+[submodule "terraform"]
+	path = terraform
+	url = https://github.com/a-company-jp/lgtm-tf
